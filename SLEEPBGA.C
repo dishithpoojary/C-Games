@@ -29,7 +29,7 @@ default :vel=4;
 break;
 }
 
-initgraph(&gd,&gm,"C:\\TURBOC3\\BGI");
+initgraph(&gd,&gm,"C:\\TC\\BGI");
 
 for(;;)
 {
